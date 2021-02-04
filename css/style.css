@@ -88,6 +88,8 @@ footer{
 
 }
 footer p{
+    padding-top: 0px;
     padding-bottom: 10px;
+    padding-left: 0px;
     padding-right: 10px;
 }
